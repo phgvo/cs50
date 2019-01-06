@@ -18,3 +18,25 @@
             color: red;
         }
 
+        table {
+        border: 2px solid black;
+        border-collapse: collapse;
+        }
+
+        th, td {
+        border: 1px solid black;
+        padding: 5px;
+        text-align: center;
+        }
+
+        bkgr {
+        background-color: teal;
+        width: 100px;
+        height: 400px;
+        }
+
+        font {
+        font-family: Arial, sans-serif;
+        font-size: 28px;
+        font-weight: bold;
+        }
