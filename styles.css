@@ -1,18 +1,20 @@
-<!DOCTYPe html>
-<html>
-    <head>
-        <tittle>Stylesheet</tittle>
-    </head>
-    <body>
-        <style>
+
         h1 {
+             color: red;
+             text-align: center;
+        }
+
+        h2 {
              color: blue;
+             text-align: center;
+        }
+
+        h3 {
+             color: yellow;
              text-align: center;
         }
 
         p {
             color: red;
         }
-        </style>
-    </body>
-</html>
+
